@@ -5,6 +5,10 @@ def log5(a, b)
   return a*(1 - b)/(a*(1 - b) + (1 - a)*b)
 end
 
+# Accepts an array of teams in the order of their seeding (so that the matchups)
+# work. Returns an array of the winning teams from the matchup. So for the first
+# round, it takes 16 teams and returns the 8 winners. It figures out the odds of 
+# each team winning and determines a winner based on the random number generator.
 def reduce(bracket)
   winners = []
   
@@ -28,7 +32,10 @@ def reduce(bracket)
   return winners
 end
 
-# Read in the ratings from Ken Pomeroy's Web site. A data entry avoidance technique.
+# Read in the ratings from Ken Pomeroy's Web site. A data entry avoidance technique,
+# highly brittle. The result is a hash with the names of the schools as keys and
+# a percentage chance of winning as the values. Percentages are versus an average
+# team in Pomeroy's system.
 $teams = {}
 File.open("ratings.txt").each do |line|
   fields = line.split(/\s{2,}/)
@@ -43,7 +50,7 @@ File.open("ratings.txt").each do |line|
   end
 end
 
-# Must be in order of seeding.
+# Must be in order of seeding. Names must match the keys in $teams
 west = [ "Syracuse", "Kansas St.", "Pittsburgh", "Vanderbilt", "Butler", "Xavier", "Brigham Young", 
   "Gonzaga", "Florida St.", "Florida", "Minnesota", "Texas El Paso", "Murray St.", "Oakland", 
   "North Texas", "Vermont" ]
@@ -56,17 +63,18 @@ midwest = [ "Kansas", "Ohio St.", "Georgetown", "Maryland", "Michigan St.", "Ten
   "Nevada Las Vegas", "Northern Iowa", "Georgia Tech", "San Diego St.", "New Mexico St.", "Houston", "Ohio", 
   "UC Santa Barbara",  "Lehigh" ]
 
+# Pick a winner of the play-in game.
 play_in_winners = reduce(["Winthrop", "Arkansas Pine Bluff"])
 
 south = [ "Duke", "Villanova", "Baylor", "Purdue", "Texas A&M", "Notre Dame", "Richmond", "California", 
   "Louisville", "St. Mary's", "Old Dominion", "Utah St.", "Siena", "Sam Houston St.", "Robert Morris", play_in_winners[0] ]  
 
 # This order is important so that the proper teams meet in the final four.
-
 regions = [ midwest, east, south, west ]
 
 final_four_teams = []
 
+# Play through all four regionals and come up with a Final Four
 regions.each do |region|
   rounds = 1
 
