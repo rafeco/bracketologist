@@ -13,8 +13,11 @@ script and copy the results into your bracket. That's it.
 It needs to be updated each year with the updated Pomeroy ratings and
 the tournament field. The names of the teams in the picker script also
 need to match the ones in Pomeroy's ratings perfectly or the script
-won't work.
+won't work. The `scraper.rb` script tries to scrape the ratings from Ken
+Pomeroy's site, but it will break if he makes any serious changes to
+the markup for the page.
 
-The teams for 2012 are all entered. See sample-results.txt for sample 
+The teams for 2012 are all entered and the final ratings are included,
+so there's no reason to run the scraper. See sample-results.txt for sample
 output.
 
