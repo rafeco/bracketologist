@@ -17,6 +17,8 @@ def extract_team_ratings(doc)
     school = row.children[2].content
     pyth = row.children[8].content
 
+    school.gsub!(/\d+$/, "")
+
     next if pyth == "Pyth"
 
     ratings[school] = pyth
