@@ -14,3 +14,7 @@ It needs to be updated each year with the updated Pomeroy ratings and
 the tournament field. The names of the teams in the picker script also
 need to match the ones in Pomeroy's ratings perfectly or the script
 won't work.
+
+The teams for 2012 are all entered. See sample-results.txt for sample 
+output.
+
