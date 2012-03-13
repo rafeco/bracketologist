@@ -59,7 +59,7 @@ class BracketEngine
 end
 
 class Bracket
-  attr_accessor :regions, :final_four_teams
+  attr_accessor :regions, :final_four_teams, :region_order
 
   def initialize
     # Must be in order of seeding. Names must match the keys in $teams
@@ -92,6 +92,8 @@ class Bracket
 
     # This order is important so that the proper teams meet in the final four.
     @regions = { "Midwest" => midwest, "East" => east, "South" => south, "West" => west }
+
+    @region_order = [ "Midwest", "East", "South", "West" ]
 
     @final_four_teams = []
   end

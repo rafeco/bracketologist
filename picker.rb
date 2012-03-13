@@ -5,8 +5,10 @@ require 'engine'
 bracket = Bracket.new
 
 # Play through all four regionals and come up with a Final Four
-bracket.regions.each do |name, region|
+bracket.region_order.each do |name|
   puts "*** REGION: #{name} ***"
+
+  region = bracket.regions[name]
 
   rounds = 1
 

@@ -1,0 +1,3 @@
+application: bracketologist
+version: 1
+runtime: jruby
