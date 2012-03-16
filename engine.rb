@@ -93,7 +93,8 @@ class Bracket
     # This order is important so that the proper teams meet in the final four.
     @regions = { "Midwest" => midwest, "East" => east, "South" => south, "West" => west }
 
-    @region_order = [ "Midwest", "East", "South", "West" ]
+    # BracketEngine.reduce works from outermost pair in towards the middle
+    @region_order = [ "West", "Midwest", "East", "South" ]
 
     @final_four_teams = []
   end
