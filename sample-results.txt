@@ -8,10 +8,10 @@ Winner: Iona
 
 Play-in Game 3
 Lamar has a 56% chance of beating Vermont
-Winner: Lamar
+Winner: Vermont
 
 Play-in Game 4
-California has a 66% chance of beating South Florida
+California has a 65% chance of beating South Florida
 Winner: California
 
 *** REGION: West ***
@@ -20,13 +20,13 @@ Michigan St. has a 96% chance of beating Long Island
 Winner: Michigan St.
 
 Missouri has a 96% chance of beating Norfolk St.
-Winner: Norfolk St.
+Winner: Missouri
 
 Marquette has a 71% chance of beating Iona
-Winner: Marquette
+Winner: Iona
 
 Louisville has a 71% chance of beating Davidson
-Winner: Davidson
+Winner: Louisville
 
 New Mexico has a 67% chance of beating Long Beach St.
 Winner: New Mexico
@@ -34,89 +34,39 @@ Winner: New Mexico
 Murray St. has a 61% chance of beating Colorado St.
 Winner: Colorado St.
 
-Florida has a 56% chance of beating Virginia
-Winner: Virginia
+Florida has a 55% chance of beating Virginia
+Winner: Florida
 
 Memphis has a 59% chance of beating St. Louis
 Winner: St. Louis
 
 ROUND 2
-Michigan St. has a 71% chance of beating St. Louis
+Michigan St. has a 72% chance of beating St. Louis
 Winner: Michigan St.
 
-Norfolk St. has a 8% chance of beating Virginia
-Winner: Virginia
+Missouri has a 65% chance of beating Florida
+Winner: Florida
 
-Marquette has a 76% chance of beating Colorado St.
-Winner: Colorado St.
+Iona has a 57% chance of beating Colorado St.
+Winner: Iona
 
-Davidson has a 24% chance of beating New Mexico
+Louisville has a 44% chance of beating New Mexico
 Winner: New Mexico
 
 ROUND 3
 Michigan St. has a 71% chance of beating New Mexico
 Winner: Michigan St.
 
-Virginia has a 71% chance of beating Colorado St.
-Winner: Virginia
+Florida has a 70% chance of beating Iona
+Winner: Florida
 
 ROUND 4
-Michigan St. has a 78% chance of beating Virginia
-Winner: Virginia
-
-*** REGION: South ***
-ROUND 1
-Kentucky has a 98% chance of beating Western Kentucky
-Winner: Kentucky
-
-Duke has a 77% chance of beating Lehigh
-Winner: Duke
-
-Baylor has a 73% chance of beating South Dakota St.
-Winner: Baylor
-
-Indiana has a 78% chance of beating New Mexico St.
-Winner: New Mexico St.
-
-Wichita St. has a 77% chance of beating Virginia Commonwealth
-Winner: Wichita St.
-
-Nevada Las Vegas has a 67% chance of beating Colorado
-Winner: Colorado
-
-Notre Dame has a 54% chance of beating Xavier
-Winner: Notre Dame
-
-Iowa St. has a 55% chance of beating Connecticut
-Winner: Connecticut
-
-ROUND 2
-Kentucky has a 87% chance of beating Connecticut
-Winner: Kentucky
-
-Duke has a 66% chance of beating Notre Dame
-Winner: Duke
-
-Baylor has a 78% chance of beating Colorado
-Winner: Baylor
-
-New Mexico St. has a 20% chance of beating Wichita St.
-Winner: Wichita St.
-
-ROUND 3
-Kentucky has a 70% chance of beating Wichita St.
-Winner: Kentucky
-
-Duke has a 47% chance of beating Baylor
-Winner: Duke
-
-ROUND 4
-Kentucky has a 79% chance of beating Duke
-Winner: Kentucky
+Michigan St. has a 75% chance of beating Florida
+Winner: Michigan St.
 
 *** REGION: Midwest ***
 ROUND 1
-North Carolina has a 89% chance of beating Lamar
+North Carolina has a 91% chance of beating Vermont
 Winner: North Carolina
 
 Kansas has a 92% chance of beating Detroit
@@ -129,56 +79,56 @@ Michigan has a 70% chance of beating Ohio
 Winner: Michigan
 
 Temple has a 44% chance of beating California
-Winner: Temple
+Winner: California
 
 San Diego St. has a 46% chance of beating North Carolina St.
-Winner: San Diego St.
+Winner: North Carolina St.
 
 St. Mary's has a 39% chance of beating Purdue
-Winner: St. Mary's
+Winner: Purdue
 
 Creighton has a 46% chance of beating Alabama
-Winner: Creighton
+Winner: Alabama
 
 ROUND 2
-North Carolina has a 77% chance of beating Creighton
-Winner: Creighton
+North Carolina has a 73% chance of beating Alabama
+Winner: North Carolina
 
-Kansas has a 81% chance of beating St. Mary's
+Kansas has a 74% chance of beating Purdue
 Winner: Kansas
 
-Belmont has a 66% chance of beating San Diego St.
-Winner: San Diego St.
+Belmont has a 62% chance of beating North Carolina St.
+Winner: Belmont
 
-Michigan has a 58% chance of beating Temple
-Winner: Temple
+Michigan has a 52% chance of beating California
+Winner: Michigan
 
 ROUND 3
-Creighton has a 51% chance of beating Temple
-Winner: Creighton
+North Carolina has a 71% chance of beating Michigan
+Winner: North Carolina
 
-Kansas has a 84% chance of beating San Diego St.
-Winner: Kansas
+Kansas has a 73% chance of beating Belmont
+Winner: Belmont
 
 ROUND 4
-Creighton has a 21% chance of beating Kansas
-Winner: Kansas
+North Carolina has a 70% chance of beating Belmont
+Winner: Belmont
 
 *** REGION: East ***
 ROUND 1
-Syracuse has a 90% chance of beating NC Asheville
+Syracuse has a 91% chance of beating NC Asheville
 Winner: Syracuse
 
 Ohio St. has a 95% chance of beating Loyola MD
 Winner: Ohio St.
 
-Florida St. has a 67% chance of beating St. Bonaventure
+Florida St. has a 66% chance of beating St. Bonaventure
 Winner: Florida St.
 
 Wisconsin has a 87% chance of beating Montana
 Winner: Wisconsin
 
-Vanderbilt has a 65% chance of beating Harvard
+Vanderbilt has a 67% chance of beating Harvard
 Winner: Vanderbilt
 
 Cincinnati has a 48% chance of beating Texas
@@ -188,40 +138,90 @@ Gonzaga has a 56% chance of beating West Virginia
 Winner: West Virginia
 
 Kansas St. has a 72% chance of beating Southern Mississippi
-Winner: Southern Mississippi
+Winner: Kansas St.
 
 ROUND 2
-Syracuse has a 84% chance of beating Southern Mississippi
+Syracuse has a 67% chance of beating Kansas St.
 Winner: Syracuse
 
 Ohio St. has a 87% chance of beating West Virginia
 Winner: Ohio St.
 
-Florida St. has a 52% chance of beating Texas
-Winner: Florida St.
+Florida St. has a 54% chance of beating Texas
+Winner: Texas
 
-Wisconsin has a 65% chance of beating Vanderbilt
+Wisconsin has a 62% chance of beating Vanderbilt
 Winner: Wisconsin
 
 ROUND 3
 Syracuse has a 49% chance of beating Wisconsin
 Winner: Syracuse
 
-Ohio St. has a 81% chance of beating Florida St.
-Winner: Ohio St.
+Ohio St. has a 82% chance of beating Texas
+Winner: Texas
 
 ROUND 4
-Syracuse has a 34% chance of beating Ohio St.
+Syracuse has a 71% chance of beating Texas
 Winner: Syracuse
 
----===> FINAL FOUR <===---
-Virginia has a 30% chance of beating Syracuse
-Winner: Virginia
+*** REGION: South ***
+ROUND 1
+Kentucky has a 98% chance of beating Western Kentucky
+Winner: Kentucky
 
-Kentucky has a 63% chance of beating Kansas
-Winner: Kansas
+Duke has a 78% chance of beating Lehigh
+Winner: Duke
+
+Baylor has a 73% chance of beating South Dakota St.
+Winner: Baylor
+
+Indiana has a 78% chance of beating New Mexico St.
+Winner: Indiana
+
+Wichita St. has a 77% chance of beating Virginia Commonwealth
+Winner: Wichita St.
+
+Nevada Las Vegas has a 66% chance of beating Colorado
+Winner: Nevada Las Vegas
+
+Notre Dame has a 56% chance of beating Xavier
+Winner: Xavier
+
+Iowa St. has a 55% chance of beating Connecticut
+Winner: Iowa St.
+
+ROUND 2
+Kentucky has a 83% chance of beating Iowa St.
+Winner: Kentucky
+
+Duke has a 71% chance of beating Xavier
+Winner: Duke
+
+Baylor has a 65% chance of beating Nevada Las Vegas
+Winner: Nevada Las Vegas
+
+Indiana has a 46% chance of beating Wichita St.
+Winner: Wichita St.
+
+ROUND 3
+Kentucky has a 68% chance of beating Wichita St.
+Winner: Wichita St.
+
+Duke has a 62% chance of beating Nevada Las Vegas
+Winner: Duke
+
+ROUND 4
+Wichita St. has a 61% chance of beating Duke
+Winner: Wichita St.
+
+---===> FINAL FOUR <===---
+Michigan St. has a 65% chance of beating Wichita St.
+Winner: Michigan St.
+
+Belmont has a 32% chance of beating Syracuse
+Winner: Syracuse
 
 ============ NATIONAL CHAMPION ============
-Virginia has a 26% chance of beating Kansas
-Winner: Kansas
+Michigan St. has a 62% chance of beating Syracuse
+Winner: Michigan St.
 
