@@ -13,9 +13,7 @@ class BracketEngine
 
     (0 .. ((bracket.length()/2) - 1)).each do |index|
       opponent_a = bracket[index]
-      puts "index #{index} opponent_a #{opponent_a}";
       opponent_b = bracket[bracket.length - index - 1]
-      puts "index #{bracket.length - index - 1} opponent_b #{opponent_b}";
 
       puts "Can't find team #{opponent_a}" if (!self.teams.include?(opponent_a)) 
       puts "Can't find team #{opponent_b}" if (!self.teams.include?(opponent_b)) 
