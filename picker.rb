@@ -1,6 +1,6 @@
 !#/usr/bin/env ruby
 
-require 'engine'
+require File.join(File.dirname(__FILE__), "engine")
 
 bracket = Bracket.new
 
