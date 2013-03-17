@@ -15,26 +15,26 @@ class BracketEngine
       opponent_a = bracket[index]
       opponent_b = bracket[bracket.length - index - 1]
 
-      puts "Can't find team #{opponent_a}" if (!self.teams.include?(opponent_a)) 
-      puts "Can't find team #{opponent_b}" if (!self.teams.include?(opponent_b)) 
+      puts "Can't find team #{opponent_a}" if (!self.teams.include?(opponent_a))
+      puts "Can't find team #{opponent_b}" if (!self.teams.include?(opponent_b))
 
       winning_pct_for_a = log5(self.teams[opponent_a], self.teams[opponent_b])
 
       puts opponent_a + " has a " + (winning_pct_for_a * 100).round().to_s + "% chance of beating " + opponent_b
 
-      if rand() > winning_pct_for_a 
+      if rand() > winning_pct_for_a
         puts "Winner: " + opponent_b + "\n\n"
-        winners << opponent_b 
+        winners << opponent_b
       else
         puts "Winner: " + opponent_a + "\n\n"
-        winners << opponent_a 
+        winners << opponent_a
       end
     end
 
     return winners
   end
 
-  def self.play_in_game(game, teams) 
+  def self.play_in_game(game, teams)
     puts "Play-in #{game}"
     BracketEngine.reduce(teams)
   end
@@ -65,30 +65,30 @@ class Bracket
     # Must be in order of seeding. Names must match the keys in $teams
     #
     # Pick play-in game winners.
-    round_1_g1 = BracketEngine.play_in_game("Game 1", ["Mississippi Valley St.", "Western Kentucky"])
-    round_1_g2 = BracketEngine.play_in_game("Game 2", ["Brigham Young", "Iona"])
-    round_1_g3 = BracketEngine.play_in_game("Game 3", ["Lamar", "Vermont"])
-    round_1_g4 = BracketEngine.play_in_game("Game 4", ["California", "South Florida"])
+    round_1_g1 = BracketEngine.play_in_game("Game 1", ["North Carolina A&T", "Liberty"])
+    round_1_g2 = BracketEngine.play_in_game("Game 2", ["Boise St.", "La Salle"])
+    round_1_g3 = BracketEngine.play_in_game("Game 3", ["Long Island", "James Madison"])
+    round_1_g4 = BracketEngine.play_in_game("Game 4", ["Middle Tennessee", "St. Mary's"])
 
-    west = [ "Michigan St.", "Missouri", "Marquette", "Louisville", "New Mexico", 
-      "Murray St.", "Florida", "Memphis", "St. Louis", "Virginia",
-      "Colorado St.", "Long Beach St.", "Davidson", round_1_g2[0],
-      "Norfolk St.", "Long Island" ]
+    west = [ "Gonzaga", "Ohio St.", "New Mexico", "Kansas St.", "Wisconsin",
+      "Arizona", "Notre Dame", "Pittsburgh", "Wichita St.", "Iowa St.",
+      "Belmont", "Mississippi", round_1_g2[0], "Harvard",
+      "Iona", "Southern" ]
 
-    east = [ "Syracuse", "Ohio St.", "Florida St.", "Wisconsin", "Vanderbilt",
-      "Cincinnati", "Gonzaga", "Kansas St.", "Southern Mississippi", 
-      "West Virginia", "Texas", "Harvard", "Montana", "St. Bonaventure", 
-      "Loyola MD", "NC Asheville"]
+    east = [ "Indiana", "Miami FL", "Marquette", "Syracuse", "Nevada Las Vegas",
+      "Butler", "Illinois", "North Carolina St.", "Temple",
+      "Colorado", "Bucknell", "California", "Montana", "Davidson",
+      "Pacific", round_1_g3[0]]
 
-    midwest = [ "North Carolina", "Kansas", "Georgetown", "Michigan", "Temple",
-      "San Diego St.", "St. Mary's", "Creighton", "Alabama", "Purdue", 
-      "North Carolina St.", round_1_g4[0], "Ohio", "Belmont", 
-      "Detroit",  round_1_g3[0] ]
+    midwest = [ "Louisville", "Duke", "Michigan St.", "St. Louis", "Oklahoma St.",
+      "Memphis", "Creighton", "Colorado St.", "Missouri", "Cincinnati",
+      round_1_g4[0], "Oregon", "New Mexico St.", "Valparaiso",
+      "Albany",  round_1_g1[0] ]
 
-    south = [ "Kentucky", "Duke", "Baylor", "Indiana", "Wichita St.", 
-      "Nevada Las Vegas", "Notre Dame", "Iowa St.", "Connecticut", "Xavier",
-      "Colorado", "Virginia Commonwealth", "New Mexico St.", "South Dakota St.", 
-      "Lehigh", round_1_g1[0] ]  
+    south = [ "Kansas", "Georgetown", "Florida", "Michigan", "Virginia Commonwealth",
+      "UCLA", "San Diego St.", "North Carolina", "Villanova", "Oklahoma",
+      "Minnesota", "Akron", "South Dakota St.", "Northwestern St.",
+      "Florida Gulf Coast", "Western Kentucky" ]
 
     # This order is important so that the proper teams meet in the final four.
     @regions = { "Midwest" => midwest, "East" => east, "South" => south, "West" => west }

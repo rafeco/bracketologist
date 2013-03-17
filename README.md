@@ -1,3 +1,5 @@
+*Ratings and tournament bracket are updated for 2013*
+
 This script generates a plausible set of NCAA Tournament predictions.
 It uses [Ken Pomeroy's College Basketball Ratings](http://kenpom.com/)
 for team strengths, and Bill James' [log5 method](http://www.tangotiger.net/wiki/index.php?title=Log5)
@@ -17,7 +19,7 @@ won't work. The `scraper.rb` script tries to scrape the ratings from Ken
 Pomeroy's site, but it will break if he makes any serious changes to
 the markup for the page.
 
-The teams for 2012 are all entered and the final ratings are included,
+The teams for 2013 are all entered and the final ratings are included,
 so there's no reason to run the scraper. See sample-results.txt for sample
 output.
 
