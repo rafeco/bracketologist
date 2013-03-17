@@ -1,345 +1,347 @@
-Towson 	.0687
-Gardner Webb 	.2532
-Marist 	.2892
-Davidson 	.7608
-Stanford 	.7867
-Virginia Tech 	.7167
-Rhode Island 	.3961
-Auburn 	.5289
-Dartmouth 	.1899
-South Dakota 	.2258
-Liberty 	.2437
-Denver 	.7290
-Appalachian St. 	.2904
-Cal Poly 	.4874
-Norfolk St. 	.3787
-George Mason 	.6576
-Texas San Antonio 	.4658
-Tennessee 	.7780
-Alcorn St. 	.0705
-St. Francis NY 	.3696
-Southern Mississippi 	.7439
-Chattanooga 	.2710
-Holy Cross 	.3408
-Florida St. 	.8827
-Charlotte 	.5278
-Rice 	.5444
-Rutgers 	.6308
-Oregon St. 	.6947
-SIU Edwardsville 	.1503
-Samford 	.2466
-Bradley 	.2483
-American 	.4887
-Coastal Carolina 	.4055
-Mississippi St. 	.7154
-St. John's 	.5231
-Illinois St. 	.7096
-Texas St. 	.2626
-Virginia Military Inst 	.2690
-Boston College 	.2770
-West Virginia 	.8170
-Purdue 	.8730
-Georgia 	.6311
-Loyola Marymount 	.5501
-Baylor 	.9087
-Maryland Eastern Shore 	.0837
-Texas Pan American 	.1234
-Southeastern Louisiana 	.1545
-Troy 	.2593
-Arkansas St. 	.4069
-Iowa St. 	.8578
-Columbia 	.4428
-Arizona 	.7991
-Hartford 	.1623
-UC Riverside 	.2202
-Kansas St. 	.8816
-Howard 	.1126
-Colorado 	.7319
-Pittsburgh 	.7299
-Vanderbilt 	.9047
-Lehigh 	.7154
-Minnesota 	.7841
-Texas Southern 	.2173
-Saint Joseph's 	.7685
-Wagner 	.6388
-Duke 	.8971
-North Carolina Central 	.3911
-Delaware St. 	.2874
-St. Bonaventure 	.7941
-Georgia St. 	.7244
-Syracuse 	.9391
-Arkansas Pine Bluff 	.0956
-Southern California 	.3035
-UAB 	.5972
-Portland St. 	.3946
-Nevada 	.6514
-Texas A&M 	.6515
-IUPUI 	.4032
-Ohio St. 	.9665
-Seattle 	.3546
-Middle Tennessee 	.7766
-NJ Inst of Technology 	.1776
-Montana 	.7017
-Idaho 	.5237
-North Carolina St. 	.8135
-Missouri St. 	.6829
-North Florida 	.4100
-Southern 	.1020
-Cal St. Northridge 	.1686
-Illinois 	.7492
-Savannah St. 	.4597
-Youngstown St. 	.4968
-New Mexico 	.9100
-San Jose St. 	.2479
-Marquette 	.8960
-South Dakota St. 	.7824
-Rider 	.3985
-Tennessee Martin 	.0791
-Nicholls St. 	.0859
-Army 	.1844
-Lafayette 	.3259
-Siena 	.3419
-Austin Peay 	.3711
-McNeese St. 	.3710
-Colorado St. 	.7312
-Miami FL 	.8305
-St. Francis PA 	.1361
-Utah 	.1475
-Illinois Chicago 	.2058
-Louisville 	.8880
-UC Davis 	.0965
-Eastern Kentucky 	.2481
-St. Mary's 	.8161
-Central Connecticut 	.3776
-Stony Brook 	.5609
-Indiana St. 	.5765
-St. Peter's 	.1144
-Idaho St. 	.1582
-Jacksonville St. 	.4169
-Louisiana Tech 	.4456
-Murray St. 	.8069
-North Texas 	.5206
-Jackson St. 	.0705
-Fairleigh Dickinson 	.0859
-Canisius 	.1302
-Monmouth 	.2319
-Presbyterian 	.2865
-James Madison 	.3188
-Wyoming 	.7426
-Ball St. 	.3758
-George Washington 	.4698
-Arkansas Little Rock 	.4536
-Seton Hall 	.8029
-Northern Illinois 	.0877
-The Citadel 	.1213
-Northeastern 	.4374
-Maryland 	.6047
-South Alabama 	.3701
-Bethune Cookman 	.2498
-Stetson 	.3061
-Evansville 	.6493
-Chicago St. 	.0733
-Alabama St. 	.0964
-California 	.8621
-Oakland 	.5243
-Pacific 	.2185
-Mississippi Valley St. 	.2696
-Oklahoma St. 	.7064
-Boston University 	.4507
-Oklahoma 	.6635
-New Mexico St. 	.7724
-Detroit 	.6340
-Western Illinois 	.4597
-Fresno St. 	.4467
-Old Dominion 	.7038
-Louisiana Lafayette 	.3899
-Nebraska 	.5207
-South Carolina St. 	.0544
-Alabama 	.8580
-Pepperdine 	.2040
-Long Beach St. 	.8312
-Quinnipiac 	.5665
-Virginia Commonwealth 	.8036
-Morgan St. 	.2468
-Furman 	.3096
-Wofford 	.4132
-Washington St. 	.5984
-Harvard 	.8224
-Yale 	.5316
-Buffalo 	.6623
-Nevada Las Vegas 	.8435
-Western Michigan 	.4472
-Mercer 	.6540
-Mississippi 	.7220
-MD Baltimore County 	.0637
-Texas A&M Corpus Chris 	.1344
-North Carolina A&T 	.1731
-Missouri Kansas City 	.2154
-Winthrop 	.2706
-Southern Illinois 	.3436
-Duquesne 	.5922
-Butler 	.6197
-Loyola MD 	.6009
-Alabama A&M 	.0638
-Bryant 	.0779
-Navy 	.1048
-Toledo 	.4051
-South Florida 	.7674
-La Salle 	.7820
-Stephen F. Austin 	.5566
-North Dakota St. 	.4665
-Virginia 	.8705
-Nebraska Omaha 	.0964
-New Hampshire 	.1998
-Central Michigan 	.2528
-Utah Valley 	.3008
-UC Irvine 	.2892
-Tennessee Tech 	.4325
-Akron 	.7245
-Indiana 	.9224
-Fairfield 	.6665
-Wichita St. 	.9325
-Oral Roberts 	.6800
-Cleveland St. 	.7177
-Wisconsin Milwaukee 	.5438
-Dayton 	.7722
-Campbell 	.3069
-Hofstra 	.3630
-South Carolina 	.5179
-East Carolina 	.6034
-San Francisco 	.5792
-East Tennessee St. 	.5521
-Loyola Chicago 	.2265
-Jacksonville 	.3309
-Houston 	.4386
-Penn St. 	.6047
-UCLA 	.8024
-Michigan 	.8718
-Drexel 	.8178
-Georgia Southern 	.3122
-Charleston Southern 	.4486
-Wisconsin Green Bay 	.4479
-Xavier 	.7812
-Central Florida 	.6949
-Southern Methodist 	.4171
-Eastern Washington 	.3727
-DePaul 	.5414
-Vermont 	.6191
-Hampton 	.2217
-Villanova 	.7163
-Gonzaga 	.8508
-Radford 	.1311
-San Diego St. 	.7879
-Marshall 	.7350
-Georgetown 	.9125
-Florida International 	.3360
-Princeton 	.7094
-Creighton 	.8381
-Connecticut 	.8327
-Clemson 	.7443
-Montana St. 	.1868
-Eastern Michigan 	.2306
-NC Wilmington 	.3131
-Sacred Heart 	.3165
-Weber St. 	.5727
-Cal St. Fullerton 	.4795
-Tulsa 	.7089
-Florida A&M 	.1177
-Mount St. Mary's 	.1890
-William & Mary 	.2164
-Texas Arlington 	.6519
-Boise St. 	.5423
-Oregon 	.7735
-Kansas 	.9511
-Notre Dame 	.8184
-Richmond 	.6657
-Sacramento St. 	.2064
-Santa Clara 	.2497
-Albany 	.4155
-Prairie View A&M 	.0880
-Sam Houston St. 	.2026
-Wright St. 	.3513
-Drake 	.5756
-Kentucky 	.9671
-Iowa 	.7102
-Memphis 	.9333
-South Carolina Upstate 	.5725
-Bowling Green 	.6052
-Manhattan 	.6221
-Elon 	.2770
-Northern Colorado 	.2955
-Northwestern St. 	.3389
-Northwestern 	.7813
-Iona 	.7813
-Houston Baptist 	.1129
-Kennesaw St. 	.1227
-IUPU Fort Wayne 	.2457
-Fordham 	.2462
-Texas Tech 	.3127
-Delaware 	.4994
-Miami OH 	.4075
-Lamar 	.6756
-Cal St. Bakersfield 	.2850
-Southeast Missouri St. 	.3499
-Cincinnati 	.8526
-Lipscomb 	.3887
-Louisiana St. 	.6929
-NC Asheville 	.6163
-College of Charleston 	.5039
-Northern Arizona 	.0666
-Arizona St. 	.3231
-Southern Utah 	.3265
-Wake Forest 	.3973
-Missouri 	.9391
-Robert Morris 	.5687
-Florida Gulf Coast 	.4605
-Colgate 	.1206
-UC Santa Barbara 	.6781
-North Carolina 	.9429
-Providence 	.6043
-San Diego 	.3869
-Brown 	.1424
-Eastern Illinois 	.1651
-Florida Atlantic 	.3904
-Hawaii 	.3809
-Morehead St. 	.4276
-Belmont 	.8769
-Kent St. 	.6127
-Cornell 	.3941
-Temple 	.8322
-Louisiana Monroe 	.1348
-Maine 	.2452
-Wisconsin 	.9405
-Central Arkansas 	.0999
-Western Kentucky 	.4278
-Georgia Tech 	.4583
-Florida 	.8930
-Coppin St. 	.2331
-Utah St. 	.5822
-Michigan St. 	.9620
-Binghamton 	.0569
-Portland 	.2302
-Brigham Young 	.7971
-Air Force 	.4328
-Washington 	.7614
-Tulane 	.4273
-High Point 	.3321
-Arkansas 	.5922
-Ohio 	.7431
-Massachusetts 	.7091
-Texas 	.8644
-Texas Christian 	.5534
-Longwood 	.0629
-NC Greensboro 	.2504
-North Dakota 	.2554
-Long Island 	.4899
-St. Louis 	.9077
-Texas El Paso 	.5708
-Tennessee St. 	.4784
-Grambling 	.0212
-Niagara 	.3176
-Western Carolina 	.3299
-Northern Iowa 	.6997
-Bucknell 	.6738
-Pennsylvania 	.5956
-Valparaiso 	.5564
+IUPUI 	.0880
+UC Riverside 	.1533
+Sacred Heart 	.2402
+Nevada Las Vegas 	.8587
+Ohio 	.7271
+Tennessee Martin 	.0954
+Detroit 	.7473
+Youngstown St. 	.3992
+Jackson St. 	.1442
+Jacksonville 	.1907
+Northwestern St. 	.5746
+William & Mary 	.3722
+Western Illinois 	.4906
+South Carolina 	.3757
+Evansville 	.7156
+Missouri St. 	.3875
+James Madison 	.4613
+San Francisco 	.5682
+Siena 	.1854
+Winthrop 	.2304
+North Texas 	.2881
+Miami OH 	.2942
+UAB 	.5064
+Wagner 	.4484
+Boston University 	.5324
+Maryland 	.8098
+Creighton 	.9058
+Toledo 	.4426
+Mississippi Valley St. 	.0638
+Bethune Cookman 	.2296
+Texas Christian 	.2493
+Cornell 	.2510
+Florida Atlantic 	.3274
+Southern Methodist 	.4590
+Pacific 	.6098
+Marquette 	.8806
+St. Bonaventure 	.6172
+Northern Illinois 	.1152
+Western Carolina 	.3139
+College of Charleston 	.5157
+Santa Clara 	.6960
+Arkansas 	.7521
+Washington St. 	.7011
+Lamar 	.0460
+Cal St. Bakersfield 	.3090
+Florida 	.9757
+Savannah St. 	.3604
+Richmond 	.7177
+Rice 	.1327
+Delaware St. 	.1943
+California 	.7924
+Colorado St. 	.8848
+Rhode Island 	.4328
+Purdue 	.7762
+San Jose St. 	.1497
+Radford 	.1905
+Appalachian St. 	.2768
+Hartford 	.3523
+Wyoming 	.6618
+George Mason 	.5535
+Butler 	.8143
+Charleston Southern 	.4461
+Quinnipiac 	.4060
+Arkansas Pine Bluff 	.2011
+Alabama 	.7891
+Robert Morris 	.5560
+Virginia Tech 	.4899
+Fresno St. 	.6735
+NC Greensboro 	.2190
+DePaul 	.4974
+North Florida 	.2587
+East Carolina 	.5200
+Southern California 	.6696
+Pittsburgh 	.9425
+Hawaii 	.4042
+Fairfield 	.5133
+Florida St. 	.6189
+IUPU Fort Wayne 	.3111
+Mercer 	.5861
+Southern Mississippi 	.8088
+Louisville 	.9721
+Louisiana Monroe 	.1042
+Missouri Kansas City 	.1329
+NC Wilmington 	.1985
+Indiana 	.9655
+Arizona 	.8944
+Davidson 	.7940
+NJ Inst of Technology 	.2485
+Providence 	.7757
+Idaho 	.4212
+New Orleans 	.0439
+MD Baltimore County 	.1673
+NC Asheville 	.3835
+Lehigh 	.6715
+Texas 	.6706
+Loyola MD 	.6087
+South Alabama 	.4224
+Grambling 	.0044
+Kennesaw St. 	.0935
+Houston Baptist 	.1167
+Drexel 	.4902
+Stetson 	.3181
+Massachusetts 	.7177
+Duke 	.9453
+Michigan 	.9281
+Syracuse 	.9211
+Bucknell 	.7885
+Missouri 	.8965
+Ohio St. 	.9445
+Longwood 	.0879
+Nicholls St. 	.1925
+Eastern Michigan 	.3052
+George Washington 	.6413
+Virginia 	.8761
+Georgia Tech 	.6774
+North Dakota St. 	.7597
+Furman 	.0654
+Austin Peay 	.1755
+Campbell 	.1840
+Colgate 	.2450
+Nevada 	.5008
+Delaware 	.4740
+Boise St. 	.8286
+Morehead St. 	.3437
+Alabama St. 	.0816
+Florida A&M 	.1105
+Coppin St. 	.1440
+Army 	.5224
+Bradley 	.4725
+Fairleigh Dickinson 	.0775
+Texas A&M Corpus Chris 	.1657
+Oklahoma 	.8194
+Buffalo 	.4663
+St. Mary's 	.8864
+Maryland Eastern Shore 	.0530
+The Citadel 	.0940
+Southeastern Louisiana 	.2152
+Pepperdine 	.3563
+Temple 	.7707
+Vermont 	.5686
+Chicago St. 	.1910
+Hampton 	.2268
+Marist 	.3158
+Louisiana Tech 	.7062
+Northwestern 	.5648
+Utah Valley 	.1886
+South Dakota 	.2723
+North Dakota 	.2759
+UC Irvine 	.5572
+Notre Dame 	.8674
+San Diego 	.4708
+Oklahoma St. 	.8934
+Gonzaga 	.9577
+Texas Arlington 	.5531
+Stony Brook 	.7937
+San Diego St. 	.8759
+McNeese St. 	.1645
+Brown 	.3419
+Rider 	.5178
+Oregon St. 	.6616
+Akron 	.8111
+Texas El Paso 	.6343
+Memphis 	.8556
+Southern Utah 	.1662
+Sacramento St. 	.2031
+Manhattan 	.5484
+Illinois St. 	.7817
+Tennessee 	.7729
+Dayton 	.7662
+Marshall 	.3543
+Iowa St. 	.8565
+Charlotte 	.5720
+Western Michigan 	.5283
+Western Kentucky 	.4579
+Georgia St. 	.4685
+West Virginia 	.5929
+Illinois Chicago 	.4269
+Boston College 	.6834
+Yale 	.4322
+Seattle 	.3566
+Tulsa 	.4715
+Southern Illinois 	.4590
+Air Force 	.7048
+Northern Iowa 	.7626
+Georgetown 	.9261
+Utah St. 	.6360
+Wake Forest 	.5788
+Wright St. 	.6151
+Howard 	.0897
+Cleveland St. 	.2552
+Michigan St. 	.9320
+High Point 	.3793
+Virginia Commonwealth 	.8954
+Loyola Chicago 	.4913
+Iowa 	.8723
+Portland St. 	.1706
+American 	.2345
+Villanova 	.8337
+Miami FL 	.9128
+Nebraska 	.5779
+Northeastern 	.4603
+Eastern Illinois 	.2483
+Ball St. 	.2787
+Texas Southern 	.5179
+Texas Pan American 	.1442
+Kentucky 	.8331
+Valparaiso 	.7763
+Arkansas St. 	.5748
+Albany 	.5440
+Idaho St. 	.1181
+Portland 	.2589
+Fordham 	.2808
+North Carolina A&T 	.3473
+Lafayette 	.5182
+Loyola Marymount 	.3673
+Towson 	.4741
+Cal St. Northridge 	.3663
+La Salle 	.8066
+Alabama A&M 	.0805
+Georgia 	.6722
+Wisconsin Green Bay 	.6149
+North Carolina Central 	.4943
+New Mexico 	.9032
+Wichita St. 	.8616
+Saint Joseph's 	.7422
+Clemson 	.6293
+Oregon 	.8390
+Niagara 	.5775
+South Carolina St. 	.0681
+Northern Arizona 	.1634
+Baylor 	.8438
+Southern 	.4782
+Belmont 	.8340
+St. Louis 	.9003
+St. John's 	.6552
+Troy 	.2346
+Mississippi St. 	.2738
+Princeton 	.6821
+Kansas St. 	.8677
+Tennessee St. 	.4842
+Presbyterian 	.0868
+Montana St. 	.1773
+Liberty 	.2856
+Harvard 	.6510
+Jacksonville St. 	.4009
+Weber St. 	.6811
+St. Francis PA 	.1091
+Central Arkansas 	.1754
+Wofford 	.2764
+Morgan St. 	.4015
+Xavier 	.7273
+Lipscomb 	.1686
+Tennessee Tech 	.2305
+Louisiana Lafayette 	.3360
+Kansas 	.9415
+Penn St. 	.5404
+Mississippi 	.8485
+Illinois 	.8403
+Oral Roberts 	.4787
+Wisconsin 	.9406
+Washington 	.7164
+Samford 	.2101
+Elon 	.3912
+North Carolina St. 	.8601
+Texas A&M 	.6678
+South Carolina Upstate 	.3974
+Binghamton 	.0559
+Navy 	.1378
+South Florida 	.5425
+Seton Hall 	.6355
+Alcorn St. 	.1045
+Duquesne 	.2980
+Holy Cross 	.3148
+Southeast Missouri St. 	.3624
+Stanford 	.8301
+UC Davis 	.3793
+Colorado 	.8273
+New Hampshire 	.2323
+Iona 	.6728
+Louisiana St. 	.6830
+Arizona St. 	.7312
+Denver 	.8554
+Cal St. Fullerton 	.3993
+Prairie View A&M 	.1001
+Arkansas Little Rock 	.3390
+Columbia 	.4167
+Utah 	.6211
+Mount St. Mary's 	.3902
+Hofstra 	.1723
+Maine 	.2706
+Gardner Webb 	.4471
+SIU Edwardsville 	.1654
+Georgia Southern 	.2145
+Texas San Antonio 	.3013
+Norfolk St. 	.3510
+Drake 	.6029
+UCLA 	.8346
+Central Connecticut 	.2653
+Middle Tennessee 	.8673
+Connecticut 	.8139
+Old Dominion 	.2522
+Tulane 	.5345
+Long Beach St. 	.5417
+Texas Tech 	.2936
+Stephen F. Austin 	.7438
+Kent St. 	.6381
+Eastern Kentucky 	.6264
+Bowling Green 	.4002
+Chattanooga 	.1751
+Northern Kentucky 	.2860
+Florida International 	.4554
+Houston 	.4653
+Auburn 	.4259
+Florida Gulf Coast 	.5944
+North Carolina 	.8787
+Wisconsin Milwaukee 	.1796
+Dartmouth 	.2471
+Northern Colorado 	.2997
+St. Francis NY 	.3493
+South Dakota St. 	.6685
+Bryant 	.4511
+Rutgers 	.6603
+St. Peter's 	.2129
+Central Florida 	.5672
+Oakland 	.3964
+East Tennessee St. 	.1196
+Nebraska Omaha 	.1338
+Coastal Carolina 	.3355
+Canisius 	.6080
+Indiana St. 	.6567
+Murray St. 	.5625
+Virginia Military Inst 	.2048
+Pennsylvania 	.2995
+Brigham Young 	.7601
+Long Island 	.4537
+Eastern Washington 	.1896
+Central Michigan 	.3132
+Minnesota 	.8856
+Vanderbilt 	.7098
+New Mexico St. 	.7250
+Sam Houston St. 	.3337
+UC Santa Barbara 	.3854
+Montana 	.5490
+Monmouth 	.1524
+Texas St. 	.3254
+Cincinnati 	.8458
+Cal Poly 	.5753

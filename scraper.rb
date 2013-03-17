@@ -5,7 +5,7 @@ require 'nokogiri'
 require 'open-uri'
 
 def fetch_web_content
-  url = "http://kenpom.com/index.php?y=2012"
+  url = "http://kenpom.com/index.php?y=2013"
 
   return Nokogiri::HTML(open(url))
 end
