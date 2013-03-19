@@ -94,7 +94,7 @@ class Bracket
     @regions = { "Midwest" => midwest, "East" => east, "South" => south, "West" => west }
 
     # BracketEngine.reduce works from outermost pair in towards the middle
-    @region_order = [ "West", "Midwest", "East", "South" ]
+    @region_order = [ "West", "South", "East", "Midwest" ]
 
     @final_four_teams = []
   end
